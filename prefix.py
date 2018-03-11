@@ -22,3 +22,6 @@ for i in range(0,l-1,1):
             t=0;
     if t==1:
         print(c, end='')
+    elif m==0:
+        m=m+1;
+        print("No Prefix Found")
