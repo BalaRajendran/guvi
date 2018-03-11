@@ -21,6 +21,7 @@ for i in range(0,l-1,1):
         else:
             t=0;
     if t==1:
+        m=m+1;
         print(c, end='')
     elif m==0:
         m=m+1;
