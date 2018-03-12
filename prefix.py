@@ -11,7 +11,7 @@ for k in range(1,n):
     if(l1<l): 
         l=l1
 #print (l)
-for i in range(0,l-1,1):
+for i in range(0,l,1):
     c=s[0][i];
     for j in range(1,n,1):
         #print (i)
